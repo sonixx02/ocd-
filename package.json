@@ -1,0 +1,12 @@
+{
+  "name": "ocd-ai-workflow-engine",
+  "version": "1.0.0",
+  "description": "Local AI workflow engine hiring task for OneClickDesigner.",
+  "main": "engine/workflowRunner.js",
+  "type": "commonjs",
+  "private": true,
+  "scripts": {
+    "test": "node test/run.js"
+  },
+  "dependencies": {}
+}
